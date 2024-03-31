@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rociosalgadof
 - 👀 I’m interested in ... learning 
-- 🌱 I’m currently learning ... React
+- 🌱 I’m currently learning ... JAVA
 - 💞️ I’m looking to collaborate on ... new and interesting proyects
 - 📫 How to reach me ... salgadorocio@hotmail.com / +34 662 91 09 93
 
